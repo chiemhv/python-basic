@@ -1,0 +1,10 @@
+# tuple--> la danh sach phan tu, ma gia tri cua no ko the thay doi duoc
+values =(0, 3, 4, 6, 2)
+print(values[0])
+print(values[1])
+print(values[2])
+print("...")
+print(values[-1])
+print(values[-2])
+print("..")
+len(values)
